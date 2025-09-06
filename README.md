@@ -21,13 +21,13 @@ It provides insights into **team performance, batting & bowling statistics, toss
 - **Power BI Desktop** – Dashboard, KPIs, Visuals  
 - **Power Query** – Data Cleaning & Transformation  
 - **DAX** – Measures and Calculations  
-- **SQL (PostgreSQL / MS SQL Server)** – Data storage & queries  
+- **SQL (MS SQL Server)** – Data storage & queries  
 - **Flat Files** – CSV/Excel for raw data  
 
 ---
 
 ## 📸 Dashboard Preview  
-![Dashboard](dashboard.png)  
+![Dashboard](https://github.com/LahariPonnaganti/IPL-Analysis-Dashboard/blob/main/ipl_dashboard.png)  
 
 ---
 
@@ -38,12 +38,16 @@ It provides insights into **team performance, batting & bowling statistics, toss
 
 ---
 
-## 📈 Key Insights  
-- **Virat Kohli** – Most runs (Orange Cap).  
-- **DJ Bravo** – Most wickets (Purple Cap).  
-- **Mumbai Indians & Chennai Super Kings** lead in total wins.  
-- Winning the toss and **fielding first** showed higher match success.  
-- Venues like **Eden Gardens** and **Wankhede Stadium** have hosted the most victories.  
+## 📈 Key Insights (Across All Seasons)  
+- **Most Successful Teams** → Mumbai Indians (5 titles), Chennai Super Kings (5 titles)  
+- **Top Run Scorer** → Virat Kohli (6000+ career runs)  
+- **Top Wicket Takers** → Dwayne Bravo & Lasith Malinga (highest career wickets)  
+- **Most Sixes** → Chris Gayle (record holder for six-hitting)  
+- **Venue Insights** → Eden Gardens & Wankhede Stadium host maximum matches/wins  
+- **Toss Impact** → Fielding first leads to higher win probability in many matches  
+- **Finals Trend** → Teams batting first in finals have higher success rate  
+- **Scoring Pattern** → Increasing 4’s & 6’s trend shows more aggressive batting style  
+
 
 ---
 
