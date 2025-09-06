@@ -35,12 +35,14 @@ It provides insights into **team performance, batting & bowling statistics, toss
 - `IPL_Analysis.pbix` → Power BI dashboard file (handled with Git LFS)  
 - `dashboard.png` → Dashboard screenshot  
 - `README.md` → Project documentation
--  [📊 IPL_ball_by_ball_dataset.xlsx](https://github.com/LahariPonnaganti/IPL-Analysis-Dashboard/blob/main/Data/ipl_ball_by_ball_2008_2022.csv) → **Download Excel file** (Dataset1). 
+-  [📊 IPL_ball_by_ball_dataset.xlsx](https://github.com/LahariPonnaganti/IPL-Analysis-Dashboard/blob/main/Data/ipl_ball_by_ball_2008_2022.csv) → **Download Excel file** (Dataset1).
+-  
+-  [📊 ipl_matches_2008_2022_dataset.xlsx](https://github.com/LahariPonnaganti/IPL-Analysis-Dashboard/blob/main/Data/ipl_matches_2008_2022.csv) → **Download Excel file** (Dataset1). 
 
 ---
 ## 📊 Dataset Description  
 
-### 1. `ipl_ball_by_ball_2008_2022.csv'![Link to dataset](https://github.com/LahariPonnaganti/IPL-Analysis-Dashboard/blob/main/Data/ipl_ball_by_ball_2008_2022.csv)  
+### 1. `ipl_ball_by_ball_2008_2022.csv'
 Contains delivery-level data for every ball bowled in IPL matches.  
 **Key Columns:**  
 - `match_id` → Unique ID linking to the matches dataset  
