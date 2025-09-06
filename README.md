@@ -36,8 +36,7 @@ It provides insights into **team performance, batting & bowling statistics, toss
 - `dashboard.png` → Dashboard screenshot  
 - `README.md` → Project documentation
 -  [📊 IPL_ball_by_ball_dataset.xlsx](https://github.com/LahariPonnaganti/IPL-Analysis-Dashboard/blob/main/Data/ipl_ball_by_ball_2008_2022.csv) → **Download Excel file** (Dataset1).
--  
--  [📊 ipl_matches_2008_2022_dataset.xlsx](https://github.com/LahariPonnaganti/IPL-Analysis-Dashboard/blob/main/Data/ipl_matches_2008_2022.csv) → **Download Excel file** (Dataset1). 
+-  [📊 ipl_matches_2008_2022_dataset.xlsx](https://github.com/LahariPonnaganti/IPL-Analysis-Dashboard/blob/main/Data/ipl_matches_2008_2022.csv) → **Download Excel file** (Dataset2). 
 
 ---
 ## 📊 Dataset Description  
