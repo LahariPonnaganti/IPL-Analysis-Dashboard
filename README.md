@@ -34,10 +34,42 @@ It provides insights into **team performance, batting & bowling statistics, toss
 ## 📂 Files in this Repository  
 - `IPL_Analysis.pbix` → Power BI dashboard file (handled with Git LFS)  
 - `dashboard.png` → Dashboard screenshot  
-- `README.md` → Project documentation  
+- `README.md` → Project documentation
+- - `data/ipl_ball_by_ball_2008_2022.csv` → Ball-by-ball dataset (2008–2022)  
+- `data/ipl_matches_2008_2022.csv` → Match-level dataset (2008–2022)
+
+---
+## 📊 Dataset Description  
+
+### 1. `ipl_ball_by_ball_2008_2022.csv`  
+Contains delivery-level data for every ball bowled in IPL matches.  
+**Key Columns:**  
+- `match_id` → Unique ID linking to the matches dataset  
+- `over`, `ball` → Over and ball number  
+- `batsman`, `bowler` → Players involved in the delivery  
+- `batsman_runs`, `extra_runs`, `total_runs` → Scoring details  
+- `dismissal_kind` → Type of wicket (bowled, caught, run out, etc.)  
+- `fielder` → Player involved in dismissal  
+
+🔹 **Use:** Enables detailed batting & bowling analysis (strike rates, economy, dismissals, boundary patterns).  
 
 ---
 
+### 2. `ipl_matches_2008_2022.csv`  
+Contains match-level data across IPL seasons.  
+**Key Columns:**  
+- `id` → Match ID (links with ball-by-ball data)  
+- `season` → Year of the match  
+- `city`, `venue` → Location details  
+- `team1`, `team2` → Competing teams  
+- `toss_winner`, `toss_decision` → Toss details  
+- `winner` → Match winner  
+- `result` → Match result type (normal, super over, no result)  
+- `player_of_match` → MVP for the match  
+
+🔹 **Use:** Helps analyze overall tournament trends, team performance, and venue/toss impacts.  
+
+---
 ## 📈 Key Insights (Across All Seasons)  
 - **Most Successful Teams** → Mumbai Indians (5 titles), Chennai Super Kings (5 titles)  
 - **Top Run Scorer** → Virat Kohli (6000+ career runs)  
