@@ -21,7 +21,7 @@ It provides insights into **team performance, batting & bowling statistics, toss
 - **Power BI Desktop** – Dashboard, KPIs, Visuals  
 - **Power Query** – Data Cleaning & Transformation  
 - **DAX** – Measures and Calculations  
-- **SQL (PostgreSQL / MS SQL Server)** – Data storage & queries  
+- **SQL (MS SQL Server)** – Data storage & queries  
 - **Flat Files** – CSV/Excel for raw data  
 
 ---
