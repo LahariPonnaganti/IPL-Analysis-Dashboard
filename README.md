@@ -27,7 +27,7 @@ It provides insights into **team performance, batting & bowling statistics, toss
 ---
 
 ## 📸 Dashboard Preview  
-![Dashboard](dashboard.png)  
+![Dashboard](https://github.com/LahariPonnaganti/IPL-Analysis-Dashboard/blob/main/ipl_dashboard.png)  
 
 ---
 
